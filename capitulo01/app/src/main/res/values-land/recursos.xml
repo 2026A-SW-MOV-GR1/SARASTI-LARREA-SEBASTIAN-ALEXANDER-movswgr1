@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="mensaje">Hola Mundo Horizontal Español</string>
+<color name="colorTexto">#8C7807</color>
+<color name="colorFondo">#F2ECA9</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Hello World in English Landscape</string>
+    <color name="colorTexto">#05425B</color>
+    <color name="colorFondo">#BEE5F6</color>
+</resources>

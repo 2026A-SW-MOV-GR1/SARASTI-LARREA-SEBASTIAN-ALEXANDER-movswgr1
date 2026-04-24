@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Hello World in English Portrait</string>
+    <color name="colorTexto">#BA41E6</color>
+    <color name="colorFondo">#CBADEB</color>
+</resources>

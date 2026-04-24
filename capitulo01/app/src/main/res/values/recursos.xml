@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Hola Mundo Vertical en Espanol</string>
+    <color name="colorTexto">#025646</color>
+    <color name="colorFondo">#CBF2EC</color>
+</resources>
