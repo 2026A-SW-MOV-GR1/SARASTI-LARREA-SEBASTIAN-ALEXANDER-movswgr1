@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fondo 1 (Por defecto) -->
+    <color name="dynamic_bg">#E67C7C</color>
+
+    <!-- Color X (Por defecto). ¡ESTE ES EL QUE TE FALTA! -->
+    <color name="dynamic_text_color">#000000</color>
+</resources>

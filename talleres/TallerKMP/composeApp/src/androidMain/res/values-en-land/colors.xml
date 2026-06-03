@@ -1,0 +1,5 @@
+<!-- colors.xml -->
+<resources>
+    <color name="dynamic_bg">#07E0D0</color>
+    <color name="dynamic_text_color">#020202</color>
+</resources>
